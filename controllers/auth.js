@@ -11,12 +11,12 @@ import {
 import sendMail from "../utils/mail/index.js"
 import transformErrors from "../utils/transformErrors.js"
 import { AppError } from "../utils/appError.js"
-import logger from "../utils/logger.js"
 import checkIfExists from "../validators/checkIfExists.js"
 import User from "../models/User.js"
 import Profile from "../models/Profile.js"
 
-const { JWT_EXPIRES_IN, JWT_SECRET } = constant
+const { JWT_EXPIRES_IN, JWT_SECRET, NODE_ENV } = constant
+const Production = NODE_ENV === "production"
 
 export const loginUser = async (req, res, next) => {
   try {
@@ -117,10 +117,8 @@ export const forgotPassword = async (req, res, next) => {
 
     sendMail({ subject, message }, (error, info) => {
       if (error) {
-        logger.error(error)
         return next(AppError(error, 500))
       } else {
-        logger.info(`Email sent: ${info.response}`)
         res.status(200).json({
           status: "success",
           message: "Password reset link sent",

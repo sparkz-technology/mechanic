@@ -1,5 +1,4 @@
 import constant from "../configs/constant.js"
-import logger from "../utils/logger.js"
 
 const { NODE_ENV } = constant
 const Production = NODE_ENV === "production"
@@ -19,8 +18,6 @@ const errorHandler = (err, req, res, next) => {
       response.message = "Something went wrong"
     }
   }
-
-  logger.error({ message, stack: err.stack })
   res.status(statusCode).json(response)
 }
 

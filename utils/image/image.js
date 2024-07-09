@@ -1,8 +1,6 @@
 import mongoose from "mongoose"
 import Image from "../../models/Image.js"
 import { AppError } from "../appError.js"
-import logger from "../logger.js"
-import { imageUrl as imageUrlFn } from "./imageUrl.js"
 
 export const getImage = async (req, res, next) => {
   const id = req.params.id
@@ -19,7 +17,6 @@ export const getImage = async (req, res, next) => {
   } catch (error) {
     if (error) {
       console.error(error)
-      logger.error("Error retrieving data from MongoDB:", error)
       return next(new AppError("Internal Server Error", 500))
     }
   }
@@ -39,7 +36,6 @@ export const UploadImage = async (name, base64Data, userId) => {
     })
     return image._id
   } catch (error) {
-    logger.error(error)
     throw new AppError("Internal Server Error", 500)
   }
 }
@@ -48,7 +44,6 @@ export const deleteImage = async (ImageId) => {
   try {
     await Image.deleteOne({ _id: ImageId })
   } catch (error) {
-    logger.error(error)
     throw new AppError("Internal Server Error", 500)
   }
 }
