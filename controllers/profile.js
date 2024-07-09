@@ -1,7 +1,7 @@
 import Profile from "../models/Profile.js"
 import { AppError } from "../utils/appError.js"
 import { isValidUrl } from "../utils/helper.js"
-import { UploadImage } from "../utils/image/image.js"
+import { UploadImage } from "../utils/image/Image.js"
 
 export const getProfile = async (req, res, next) => {
   try {
