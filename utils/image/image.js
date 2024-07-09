@@ -1,5 +1,5 @@
 import mongoose from "mongoose"
-import Image from "../../models/image.js"
+import Image from "../../models/Image.js"
 import { AppError } from "../appError.js"
 import logger from "../logger.js"
 import { imageUrl as imageUrlFn } from "./imageUrl.js"
