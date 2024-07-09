@@ -1,0 +1,522 @@
+[2024-07-02T18:09:38.833Z] ERROR: Email already exists
+Error: Email already exists
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:11:02.427Z] ERROR: Email already exists
+Error: Email already exists
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:17:01.355Z] ERROR: Email already exists
+Error: Email already exists
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:22:06.850Z] ERROR: [object Object]
+Error: [object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:11:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:24:08.837Z] ERROR: [object Object]
+Error: [object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:25:30.568Z] ERROR: Email already exists
+Error: Email already exists
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:25:54.922Z] ERROR: Email already exists
+Error: Email already exists
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:26:09.294Z] ERROR: [object Object]
+Error: [object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:32:51.008Z] ERROR: [object Object]
+Error: [object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:32:59.187Z] ERROR: Email already exists
+Error: Email already exists
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:34:25.503Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:36:55.959Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:42:15.610Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:58:5)
+[2024-07-02T18:42:32.662Z] ERROR: [object Object],[object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:46:58.032Z] ERROR: messages is not defined
+ReferenceError: messages is not defined
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:11:29
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:47:48.009Z] ERROR: Password must be at least 8 characters long,Password must include at least one uppercase letter,[object Object],[object Object],[object Object],[object Object]
+Error: Password must be at least 8 characters long,Password must include at least one uppercase letter,[object Object],[object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:16:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:50:33.620Z] ERROR: existsField is not defined
+ReferenceError: existsField is not defined
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:14:35
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:51:01.112Z] ERROR: errorsArray is not iterable
+TypeError: errorsArray is not iterable
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:14:39
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:51:54.349Z] ERROR: [object Object]
+Error: [object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:14:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:55:55.663Z] ERROR: [object Object],[object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T18:58:13.411Z] ERROR: [object Object],[object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:03:51.807Z] ERROR: [object Object],[object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:10:14.661Z] ERROR: [object Object],[object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:14:01.943Z] ERROR: [object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:14:09.420Z] ERROR: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:18:48.684Z] ERROR: [object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:20:05.656Z] ERROR: [object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:20:14.741Z] ERROR: [object Object],[object Object]
+Error: [object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:21:50.233Z] ERROR: [object Object]
+Error: [object Object]
+    at forgotPassword (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:95:19)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:22:22.123Z] ERROR: User not found
+Error: User not found
+    at forgotPassword (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:100:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-02T19:23:07.201Z] ERROR: User not found
+Error: User not found
+    at forgotPassword (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:100:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-02T19:24:57.061Z] ERROR: [object Object]
+Error: [object Object]
+    at forgotPassword (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:101:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-02T19:27:29.904Z] ERROR: [object Object]
+Error: [object Object]
+    at resetPassword (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-02T19:27:44.787Z] ERROR: [object Object]
+Error: [object Object]
+    at resetPassword (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-08T15:44:29.112Z] ERROR: Invalid token
+Error: Invalid token
+    at resetPassword (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:142:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T16:13:33.145Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:59:5)
+[2024-07-08T16:13:36.602Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:59:5)
+[2024-07-08T16:13:37.596Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:59:5)
+[2024-07-08T16:13:38.464Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:59:5)
+[2024-07-08T16:14:03.225Z] ERROR: Can't extract geo keys: { _id: ObjectId('668c104ba4177f1d94cf9c3d'), userId: ObjectId('668c104ba4177f1d94cf9c3b'), name: "sutharsan", servicesProvided: [], servicesRequested: [], phoneNumber: 7397077276.0, location: { type: "Point" }, __v: 0 }  Point must be an array or object, instead got type missing
+MongoServerError: Can't extract geo keys: { _id: ObjectId('668c104ba4177f1d94cf9c3d'), userId: ObjectId('668c104ba4177f1d94cf9c3b'), name: "sutharsan", servicesProvided: [], servicesRequested: [], phoneNumber: 7397077276.0, location: { type: "Point" }, __v: 0 }  Point must be an array or object, instead got type missing
+    at InsertOneOperation.execute (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async executeOperation (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongodb\lib\operations\execute_operation.js:126:16)
+[2024-07-08T16:15:11.293Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:59:5)
+[2024-07-08T16:15:29.528Z] ERROR: Can't extract geo keys: { _id: ObjectId('668c10a1658ff40c1770b7ef'), userId: ObjectId('668c10a1658ff40c1770b7ed'), name: "sutharsan", servicesProvided: [], servicesRequested: [], phoneNumber: 7397077276.0, location: { type: "Point", default: [] }, __v: 0 }  Point must be an array or object, instead got type missing
+MongoServerError: Can't extract geo keys: { _id: ObjectId('668c10a1658ff40c1770b7ef'), userId: ObjectId('668c10a1658ff40c1770b7ed'), name: "sutharsan", servicesProvided: [], servicesRequested: [], phoneNumber: 7397077276.0, location: { type: "Point", default: [] }, __v: 0 }  Point must be an array or object, instead got type missing
+    at InsertOneOperation.execute (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async executeOperation (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongodb\lib\operations\execute_operation.js:126:16)
+[2024-07-08T17:01:36.046Z] ERROR: [object Object]
+Error: [object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-08T17:02:18.276Z] ERROR: Cannot read properties of undefined (reading 'id')
+TypeError: Cannot read properties of undefined (reading 'id')
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:25:58)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:14:7
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+[2024-07-08T17:06:10.990Z] ERROR: No token in headers
+Error: No token in headers
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:13:19)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-08T17:06:12.371Z] ERROR: No token in headers
+Error: No token in headers
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:13:19)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-08T17:06:38.892Z] ERROR: Cannot read properties of undefined (reading 'id')
+TypeError: Cannot read properties of undefined (reading 'id')
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:25:58)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:14:7
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:23:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:06:40.888Z] ERROR: Cannot read properties of undefined (reading 'id')
+TypeError: Cannot read properties of undefined (reading 'id')
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:25:58)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:14:7
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:23:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:07:12.355Z] ERROR: Cannot read properties of undefined (reading 'id')
+TypeError: Cannot read properties of undefined (reading 'id')
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:30:74)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:08:49.187Z] ERROR: [object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:23:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:09:30.420Z] ERROR: [object Object],[object Object],[object Object]
+Error: [object Object],[object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:11:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:23:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:12:00.229Z] ERROR: [object Object],[object Object]
+Error: [object Object],[object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:11:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:23:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:13:25.244Z] ERROR: [object Object]
+Error: [object Object]
+    at file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/validateRequest.js:11:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:23:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:19:46.869Z] ERROR: There is no profile for this user
+Error: There is no profile for this user
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:27:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:19:52.350Z] ERROR: There is no profile for this user
+Error: There is no profile for this user
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:27:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:20:00.261Z] ERROR: [object Object]
+Error: [object Object]
+    at checkIfExists (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/validators/checkIfExists.js:13:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/auth.js:59:5)
+[2024-07-08T17:24:04.024Z] ERROR: Profile validation failed: imageUrl: Cast to Object failed for value "668c20b46c4286fbf4bbc0cf" (type string) at path "imageUrl"
+ValidationError: Profile validation failed: imageUrl: Cast to Object failed for value "668c20b46c4286fbf4bbc0cf" (type string) at path "imageUrl"
+    at Document.invalidate (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\document.js:3285:32)
+    at model.$set (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\document.js:1219:10)
+    at model.set [as imageUrl] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\helpers\document\compile.js:189:13)
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:32:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:25:34.962Z] ERROR: alert is not defined
+ReferenceError: alert is not defined
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:31:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:26:25.753Z] ERROR: uploadedImageId is not defined
+ReferenceError: uploadedImageId is not defined
+    at updateProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:44:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:30:00.597Z] ERROR: No token in headers
+Error: No token in headers
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:13:19)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\index.js:47:12)
+[2024-07-08T17:30:13.619Z] ERROR: Cannot read properties of undefined (reading 'id')
+TypeError: Cannot read properties of undefined (reading 'id')
+    at getProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:8:60)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\express\lib\router\route.js:149:13)
+    at isAuth (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/middlewares/isAuth.js:23:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:30:40.168Z] ERROR: There is no profile for this user
+Error: There is no profile for this user
+    at getProfile (file:///C:/Users/admin/Desktop/Learnig%20space/Node/api/controllers/profile.js:13:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-08T17:31:07.074Z] ERROR: Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+StrictPopulateError: Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\model.js:4450:21)
+    at _populate (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\model.js:4410:5)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\model.js:4382:5
+    at new Promise (<anonymous>)
+    at Function.populate (C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\model.js:4381:10)
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\query.js:2471:11
+    at C:\Users\admin\Desktop\Learnig space\Node\api\node_modules\mongoose\lib\query.js:3136:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
